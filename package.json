@@ -1,5 +1,5 @@
 {
-  "name": "stacks-lending",
+  "name": "@stacksnpmv/stacks-lending",
   "version": "1.0.0",
   "private": true,
   "scripts": {
